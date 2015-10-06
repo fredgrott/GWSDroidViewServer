@@ -110,7 +110,7 @@ dependencies {
               pom {
                 project {
                   packaging 'aar'
-                  name 'classes to use the view hierarchy tool from the SDK'
+                  name 'GWSDroidViewServer'
                   url siteUrl
 
                   licenses {
